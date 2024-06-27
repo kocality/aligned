@@ -11,7 +11,7 @@ Aligned is a decentralized network that verifies zero-knowledge/validity proofs 
 * [Github](https://github.com/yetanotherco/aligned_layer)
 
 
-This script allows you to set up and submit a proof to the Aligned with a single command. 
+#### This script allows you to set up and submit a proof to the Aligned with a single command. 
 
 ## How to Use?
 
@@ -20,7 +20,7 @@ To use this script, run the following command in your terminal:
 wget -q -O aligned_proof.sh https://raw.githubusercontent.com/kocality/aligned/main/aligned_proof.sh && sudo chmod +x aligned_proof.sh && ./aligned_proof.sh
   ```
 
-
+### stay aligned!
 
 
 
